@@ -1,0 +1,25 @@
+{
+  "source_sha": "e0f565c8009abb91fce7fd757a1a71318989fd7f",
+  "fonts_sha": "b076417b5880bd4154bd22f00695b1d28c6bea83",
+  "rustc": "rustc 1.99.1 (58cf8f9c3 2026-10-13)\nbinary: rustc\ncommit-hash: 58cf8f9c35b355199727627d07ae34a4e2846d67\ncommit-date: 2026-10-13\nhost: x86_64-unknown-linux-gnu\nrelease: 1.99.1\nLLVM version: 23.1.1\n",
+  "workflow_sha": "132ee236c6b0e5b6e3dc4f570cfbf96bcfee4a33",
+  "run_id": "41281019745",
+  "renderer": "repository native offscreen renderer; synthetic resources",
+  "browser_backend_e2e": false,
+  "images": [
+    {
+      "file": "cadcraft-provider-recents-off.png",
+      "width": 1280,
+      "height": 900,
+      "bytes": 66912,
+      "sha256": "35c4ee1268c3d5adbb8a19d47e54685cc4635c353b740e012628933a481ed8e9"
+    },
+    {
+      "file": "cadcraft-provider-recents-on.png",
+      "width": 1280,
+      "height": 900,
+      "bytes": 76082,
+      "sha256": "72cb2d927f960b430aa9b28a2f1fc161e50e6fc3f00e496c5e3fd0ab36613892"
+    }
+  ]
+}
